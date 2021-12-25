@@ -1,5 +1,8 @@
 # Curso de PHP - Boas práticas e conceitos modernos
 ## Sys4soft (João Ribeiro)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=krQj4stNu5U&list=PLXik_5Br-zO_5EGPG6_u-u0hVI_f_ThO_)
+
 ### Lista de aulas
 
 Aula 01 - Instalação do PHP no PC  
